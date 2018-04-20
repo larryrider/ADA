@@ -3,7 +3,7 @@ Repositorio para las prácticas de Análisis y Diseño de Algoritmos
 
 ## Curso 2014/2015
 
-Iniciación a la programación orientada a objetos, conceptos aplicados en C++
+Prácticas orientadas al análisis y diseño de algoritmos (burbuja, mergesort, etc), todos en C++.
 
 ## Autores
 
